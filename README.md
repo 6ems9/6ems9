@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 <!--
 **6ems9/6ems9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Ruang eksplorasi pribadi yang berisi kumpulan eksperimen coding, catatan teknis, dan proyek-proyek open-source dari seorang developer yang malas ngoprek 🤔
+
+
