@@ -1,6 +1,11 @@
 ## 👋
 
+A personal playground full of code experiments, tech notes, and open-source projects — from a developer who’s too lazy to tinker, but somehow still does it anyway. 🤔
+
 <!--
+This is where a lazy developer stores code experiments, technical notes, and open-source attempts — mostly to avoid losing them… again.
+An archive of code, chaos, and curiosity — brought to you by a developer who’d rather nap than debug, but still loves building cool stuff.
+
 **6ems9/6ems9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Ruang eksplorasi pribadi yang berisi kumpulan eksperimen coding, catatan teknis, dan proyek-proyek open-source dari seorang developer yang malas ngoprek 🤔
 
 
